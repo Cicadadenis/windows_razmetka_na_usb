@@ -57,9 +57,9 @@
 
 ## 🚀 Как использовать
 
-  [![Скачать razmetka.cmd](https://img.shields.io/badge/Download-.CMD-blue?logo=github)](https://raw.githubusercontent.com/Cicadadenis/windows_razmetka_na_usb/main/razmetka.cmd)
+  
 
-1. Скачай: [`create_win_partitions.cmd`](./create_win_partitions.cmd)  
+1. Скачай: [![Скачать razmetka.cmd](https://img.shields.io/badge/Download-.CMD-blue?logo=github)](https://raw.githubusercontent.com/Cicadadenis/windows_razmetka_na_usb/main/razmetka.cmd)
 2. **Правый клик → Запуск от имени администратора**  
 3. Введи номер диска → дождись завершения
 
@@ -119,7 +119,7 @@ shrink desired=800
 
 **Авторы:** ꧁༺𝓒𝓲𝓬𝓪𝓭𝓪3301༻꧂ 
 **Страна:** Україна 🇺🇦  
-**GitHub:** [Cicada3301-zz/windows-disk-layout](https://github.com/Cicada3301-zz/windows-disk-layout)  
+**GitHub:** [Cicada3301/windows-disk-layout](https://github.com/Cicada3301-zz/windows-disk-layout)  
 
 ⭐ Если помогло — поставь звёздочку!  
 **Слава Україні! Героям слава!**
