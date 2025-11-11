@@ -57,6 +57,8 @@
 
 ## 🚀 Как использовать
 
+  [![Скачать razmetka.cmd](https://img.shields.io/badge/Download-.CMD-blue?logo=github)](https://raw.githubusercontent.com/Cicadadenis/windows_razmetka_na_usb/main/razmetka.cmd)
+
 1. Скачай: [`create_win_partitions.cmd`](./create_win_partitions.cmd)  
 2. **Правый клик → Запуск от имени администратора**  
 3. Введи номер диска → дождись завершения
