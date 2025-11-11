@@ -1,4 +1,4 @@
-echo ^<div align="center"^>
+^<div align="center"^>
 
 # Windows Disk Layout Script
 ### Автоматическая разметка диска под Windows ^(EFI + MSR + OS + Recovery^)
