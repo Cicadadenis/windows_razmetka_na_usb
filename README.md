@@ -112,9 +112,4 @@ shrink desired=800
 🪪 Лицензия
 Этот проект распространяется под лицензией MIT.
 
-<div align="center">
-💡 Автор: ꧁༺𝓒𝓲𝓬𝓪𝓭𝓪3301༻꧂
-📅 Версия: 1.0
-🔗 GitHub: https://github.com/yourname/windows-disk-layout
-
-</div> 
+<div align="center"> 💡 Автор: ꧁༺𝓒𝓲𝓬𝓪𝓭𝓪3301༻꧂ 📅 Версия: 1.0 🔗 GitHub: https://github.com/yourname/windows-disk-layout </div> ```
