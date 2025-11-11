@@ -119,7 +119,7 @@ shrink desired=800
 
 **Авторы:** ꧁༺𝓒𝓲𝓬𝓪𝓭𝓪3301༻꧂ 
 **Страна:** Україна 🇺🇦  
-**GitHub:** [Cicada3301/windows-disk-layout](https://github.com/Cicada3301-zz/windows-disk-layout)  
+**GitHub:** [Cicada3301/windows-disk-layout](https://github.com/Cicadadenis/windows-disk-layout)  
 
 ⭐ Если помогло — поставь звёздочку!  
 **Слава Україні! Героям слава!**
